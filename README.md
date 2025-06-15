@@ -40,6 +40,18 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
+![Josephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoShobande&show_icons=true&theme=default&hide=issues)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoShobande&theme=default)
+
+### 🧮 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoShobande&layout=compact&theme=default)
+
+
 ## 📫 Connect with Me
 
 - 🧑🏾‍💼 [LinkedIn](https://www.linkedin.com/in/josephine-shobande/)  
